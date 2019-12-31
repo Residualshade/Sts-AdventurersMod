@@ -1,0 +1,35 @@
+{
+  "adventurers:StrikeFighter": {
+    "NAME":"StrikeFighter",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "adventurers:StrikeRogue": {
+    "NAME":"StrikeRogue",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "adventurers:StrikeWizard": {
+    "NAME":"StrikeWizard",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "adventurers:StrikeCleric": {
+    "NAME":"StrikeCleric",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "adventurers:DefendFighter": {
+    "NAME":"DefendFighter",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "adventurers:DefendRogue": {
+    "NAME":"DefendRogue",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "adventurers:DefendWizard": {
+    "NAME":"DefendWizard",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "adventurers:DefendCleric": {
+    "NAME":"DefendCleric",
+    "DESCRIPTION": "Gain !B! Block."
+  }
+
+}
